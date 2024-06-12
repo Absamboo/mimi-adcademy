@@ -1,0 +1,31 @@
+h1{
+  background-color: pink;
+  justify-content: center;
+  
+}
+input{
+  padding: 10px;
+  height: 10px;
+  border: 50px;
+  
+  
+}
+body{
+  color: green;
+}
+submit{
+  color: blue;
+}
+h2{
+  background-color: pink;
+  justify-content: center;
+  
+}
+input{
+  padding: 10px;
+  height: 10px;
+  border: 50px;
+}
+body{
+  color: green;
+}
