@@ -1,0 +1,20 @@
+<h1>FACEBOOK</h1><br>
+<h2>LOGING ACCOUNT</h2>
+<style>
+background-color="black";
+.log{
+  color="green";
+}
+</style>
+<body>
+<form action="" method="post">
+  <input type="email" id="email" placeholder="INPUT YOUR EMAIL" required><br><br>
+  <input type="passwordl" id="pass" placeholder="ENTER YOUR PASSWORD" required><br><br>
+  <button type="submit" class="LOG">LOGING ACCOUNT</button>
+</form>
+<br><br>
+<a href="register" class="reg">create a new account</a><br><br>
+<a href="#" class="fog" l>Forget Password</a>
+<br><br><br><br>
+knows <a href="terms and condition">more about us</a> and application instruction
+</body>
